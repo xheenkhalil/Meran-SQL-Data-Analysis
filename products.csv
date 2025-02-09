@@ -1,0 +1,101 @@
+product_id,product_name,category,price,stock_quantity,supplier
+1,Get Know,Electronics,34.76,281,"Booker, Smith and Smith"
+2,Attorney Nearly,Clothing,230.98,754,Martinez-Bishop
+3,Dog Director,Electronics,679.93,913,Bishop-Mercer
+4,Explain List,Toys,96.07,432,Martin-Johnston
+5,Public Eight,Electronics,39.5,223,"Gill, Jensen and Cohen"
+6,Which Rule,Clothing,510.3,27,Cobb-Robles
+7,Beautiful Head,Toys,206.85,665,Roy Inc
+8,Strategy Concern,Toys,425.32,459,Reynolds and Sons
+9,Site Fish,Toys,285.41,890,Chandler-Young
+10,Garden Action,Electronics,761.22,163,Cortez and Sons
+11,Point Order,Books,346.85,159,Andrews Ltd
+12,Provide Around,Clothing,957.64,344,Turner-Chavez
+13,Author Treatment,Electronics,101.82,99,"Collins, Thomas and Gordon"
+14,Enjoy Thousand,Home Goods,849.02,618,"Thornton, Stewart and Hopkins"
+15,Area Send,Home Goods,809.06,747,Thompson-Wright
+16,Institution President,Books,540.87,996,George-Ramsey
+17,So Ask,Books,88.01,300,"Reynolds, Clements and Shepherd"
+18,Executive Young,Toys,886.6,370,"Walker, Gonzalez and Blanchard"
+19,Return Paper,Toys,200.37,71,Matthews-Ramirez
+20,Too Difference,Electronics,664.65,791,"Strickland, Lawrence and White"
+21,Risk Hand,Home Goods,985.37,875,Palmer PLC
+22,Rule Doctor,Clothing,867.82,389,Bryant-Wright
+23,Success That,Home Goods,458.88,854,"Garcia, Walker and Smith"
+24,Medical Early,Home Goods,171.03,363,Peterson-Soto
+25,This Respond,Clothing,673.47,718,Williams and Sons
+26,Land Force,Electronics,613.04,175,Bruce and Sons
+27,Finally Son,Toys,731.84,167,Mahoney-Smith
+28,Over Nothing,Books,385.66,947,Lee-Fuentes
+29,Coach Around,Toys,227.42,332,Hall Inc
+30,Game Whole,Electronics,236.76,32,Ross and Sons
+31,Energy Term,Home Goods,407.15,67,Murphy Inc
+32,Method Section,Clothing,914.0,580,Diaz LLC
+33,Garden Nor,Home Goods,220.5,511,Brown-Matthews
+34,Example Protect,Books,885.84,658,"Williams, Hernandez and Woodard"
+35,Television Right,Books,151.44,142,"Evans, Peterson and Torres"
+36,Bar Personal,Clothing,747.54,551,"Moore, Hess and Foley"
+37,Catch Full,Home Goods,749.54,438,Dixon Inc
+38,Yeah Mention,Toys,405.41,224,"Jones, Davis and Wright"
+39,Significant Various,Clothing,514.43,93,Berger-Bailey
+40,Situation Dog,Electronics,862.49,156,"Barker, Carr and King"
+41,Sound Authority,Clothing,794.16,432,"Marquez, Ruiz and Cook"
+42,Modern Toward,Toys,72.89,390,Howard-Avery
+43,Wall Work,Toys,996.16,541,Reynolds-Hall
+44,Myself Program,Home Goods,971.37,881,"Anderson, Ramirez and Sanchez"
+45,Though Step,Electronics,683.48,117,Martinez-Jenkins
+46,Through Together,Toys,753.37,787,Powers PLC
+47,Realize His,Home Goods,120.44,445,"Reynolds, Stewart and Smith"
+48,Start A,Clothing,459.19,976,Graham-Jones
+49,Analysis Figure,Home Goods,972.17,780,Brown PLC
+50,Or Receive,Clothing,512.6,108,Mason-Howard
+51,Reach Kitchen,Home Goods,843.25,519,"Griffin, Wiley and Torres"
+52,Rich Dinner,Toys,206.92,382,"Brandt, Johnson and Mahoney"
+53,And Skill,Clothing,543.99,797,"Johnson, Williams and Hendricks"
+54,Southern Somebody,Toys,919.31,613,Oconnor-Atkinson
+55,Significant Direction,Home Goods,493.72,114,"Hernandez, Guerra and Warren"
+56,Onto Billion,Home Goods,879.93,851,"Wheeler, Johnson and Lloyd"
+57,War Include,Home Goods,247.06,246,"Wilson, Mays and Peters"
+58,Build Involve,Toys,947.48,87,"Kennedy, Nichols and Gomez"
+59,News Technology,Books,817.86,778,"Gomez, Fisher and Carlson"
+60,Hard Product,Toys,768.18,131,Guerrero Group
+61,Good Instead,Books,947.38,169,"Herrera, Martin and Mendoza"
+62,Need Already,Home Goods,532.4,621,Mendoza and Sons
+63,Send Method,Books,964.72,951,Holloway Ltd
+64,Pull Once,Toys,757.71,706,Nunez LLC
+65,Line Clear,Clothing,715.82,408,"Lee, Clark and Fisher"
+66,Affect Man,Home Goods,443.72,529,"Walker, Ramsey and Norman"
+67,None Doctor,Books,129.79,230,Mack PLC
+68,Life Usually,Electronics,344.7,602,"Wolf, Silva and Hinton"
+69,Hot Board,Toys,237.81,225,"Scott, Davila and Lawson"
+70,Democratic Its,Electronics,80.28,646,Snow-Green
+71,Medical Everyone,Electronics,236.65,927,"Johnson, Graham and Rose"
+72,Several Key,Electronics,861.04,72,Watson-Oneill
+73,Green Source,Toys,245.62,685,Barry-Miller
+74,Fly Health,Books,222.09,135,Williams-Barnett
+75,Stuff History,Toys,580.45,248,Clark-Torres
+76,With Social,Books,809.42,194,Gordon Ltd
+77,Reality Leg,Electronics,105.96,441,Chapman and Sons
+78,Admit Service,Home Goods,429.34,478,Taylor PLC
+79,They Half,Electronics,676.63,661,Rivera-Gibbs
+80,Education Spend,Electronics,70.01,745,Warner-Olson
+81,Effort Affect,Home Goods,802.59,111,"Gonzalez, Gray and Watts"
+82,Medical Box,Clothing,199.67,549,"Patton, Franco and Rodriguez"
+83,Fear Officer,Books,148.78,187,Nunez-Smith
+84,Board Charge,Home Goods,468.0,895,Ortega-Taylor
+85,House Television,Electronics,448.7,882,Rogers-Johnson
+86,Article Guess,Toys,106.93,667,Lawrence-Johnson
+87,Size Service,Toys,837.67,992,Wade PLC
+88,Why Oil,Electronics,927.1,869,Bradley Group
+89,Interest Program,Clothing,174.65,497,Young-Hicks
+90,Central Force,Books,221.61,410,Davis-Lewis
+91,Degree Success,Electronics,172.99,2,Wright-Robinson
+92,Remain Artist,Books,272.55,802,Johnson Inc
+93,Film Dog,Books,292.4,713,Moore-Parker
+94,Write Draw,Toys,665.25,498,Vasquez Ltd
+95,Fall Born,Clothing,198.0,222,Frey-Knight
+96,Quickly Itself,Electronics,583.39,555,Mooney-Gutierrez
+97,Impact Claim,Electronics,750.5,58,"Harvey, Steele and Howard"
+98,Nearly Police,Electronics,588.34,514,Moore-Rogers
+99,Local Star,Toys,165.86,983,Welch-Brown
+100,Company Care,Toys,89.31,190,Johnson and Sons
